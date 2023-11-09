@@ -1,0 +1,2 @@
+# directus-nux
+Directus instance
